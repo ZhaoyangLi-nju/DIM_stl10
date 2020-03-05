@@ -1,1 +1,1 @@
-# DIM_stl10
+# Deep Infomax with STL10
