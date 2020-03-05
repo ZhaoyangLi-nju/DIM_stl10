@@ -1,1 +1,1 @@
-# Deep Infomax with STL10
+# self-supervised learning with Deep InfoMax(DIM)
